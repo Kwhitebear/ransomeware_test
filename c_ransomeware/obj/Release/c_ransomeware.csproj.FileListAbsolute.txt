@@ -1,0 +1,11 @@
+C:\Users\white\OneDrive\바탕 화면\c_ransomeware\c_ransomeware\bin\Release\c_ransomeware.exe.config
+C:\Users\white\OneDrive\바탕 화면\c_ransomeware\c_ransomeware\bin\Release\c_ransomeware.exe
+C:\Users\white\OneDrive\바탕 화면\c_ransomeware\c_ransomeware\bin\Release\c_ransomeware.pdb
+C:\Users\white\OneDrive\바탕 화면\c_ransomeware\c_ransomeware\obj\Release\c_ransomeware.csproj.AssemblyReference.cache
+C:\Users\white\OneDrive\바탕 화면\c_ransomeware\c_ransomeware\obj\Release\c_ransomeware.csproj.SuggestedBindingRedirects.cache
+C:\Users\white\OneDrive\바탕 화면\c_ransomeware\c_ransomeware\obj\Release\c_ransomeware.Form1.resources
+C:\Users\white\OneDrive\바탕 화면\c_ransomeware\c_ransomeware\obj\Release\c_ransomeware.Properties.Resources.resources
+C:\Users\white\OneDrive\바탕 화면\c_ransomeware\c_ransomeware\obj\Release\c_ransomeware.csproj.GenerateResource.cache
+C:\Users\white\OneDrive\바탕 화면\c_ransomeware\c_ransomeware\obj\Release\c_ransomeware.csproj.CoreCompileInputs.cache
+C:\Users\white\OneDrive\바탕 화면\c_ransomeware\c_ransomeware\obj\Release\c_ransomeware.exe
+C:\Users\white\OneDrive\바탕 화면\c_ransomeware\c_ransomeware\obj\Release\c_ransomeware.pdb

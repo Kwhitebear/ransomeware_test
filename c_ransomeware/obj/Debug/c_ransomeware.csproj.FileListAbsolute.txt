@@ -1,0 +1,21 @@
+C:\Users\white\Desktop\Program\c_ransomeware\c_ransomeware\bin\Debug\c_ransomeware.exe.config
+C:\Users\white\Desktop\Program\c_ransomeware\c_ransomeware\bin\Debug\c_ransomeware.exe
+C:\Users\white\Desktop\Program\c_ransomeware\c_ransomeware\bin\Debug\c_ransomeware.pdb
+C:\Users\white\Desktop\Program\c_ransomeware\c_ransomeware\obj\Debug\c_ransomeware.csproj.AssemblyReference.cache
+C:\Users\white\Desktop\Program\c_ransomeware\c_ransomeware\obj\Debug\c_ransomeware.Form1.resources
+C:\Users\white\Desktop\Program\c_ransomeware\c_ransomeware\obj\Debug\c_ransomeware.Properties.Resources.resources
+C:\Users\white\Desktop\Program\c_ransomeware\c_ransomeware\obj\Debug\c_ransomeware.csproj.GenerateResource.cache
+C:\Users\white\Desktop\Program\c_ransomeware\c_ransomeware\obj\Debug\c_ransomeware.csproj.CoreCompileInputs.cache
+C:\Users\white\Desktop\Program\c_ransomeware\c_ransomeware\obj\Debug\c_ransomeware.exe
+C:\Users\white\Desktop\Program\c_ransomeware\c_ransomeware\obj\Debug\c_ransomeware.pdb
+C:\Users\white\OneDrive\바탕 화면\c_ransomeware\c_ransomeware\bin\Debug\c_ransomeware.exe.config
+C:\Users\white\OneDrive\바탕 화면\c_ransomeware\c_ransomeware\bin\Debug\c_ransomeware.exe
+C:\Users\white\OneDrive\바탕 화면\c_ransomeware\c_ransomeware\bin\Debug\c_ransomeware.pdb
+C:\Users\white\OneDrive\바탕 화면\c_ransomeware\c_ransomeware\obj\Debug\c_ransomeware.csproj.AssemblyReference.cache
+C:\Users\white\OneDrive\바탕 화면\c_ransomeware\c_ransomeware\obj\Debug\c_ransomeware.csproj.SuggestedBindingRedirects.cache
+C:\Users\white\OneDrive\바탕 화면\c_ransomeware\c_ransomeware\obj\Debug\c_ransomeware.Form1.resources
+C:\Users\white\OneDrive\바탕 화면\c_ransomeware\c_ransomeware\obj\Debug\c_ransomeware.Properties.Resources.resources
+C:\Users\white\OneDrive\바탕 화면\c_ransomeware\c_ransomeware\obj\Debug\c_ransomeware.csproj.GenerateResource.cache
+C:\Users\white\OneDrive\바탕 화면\c_ransomeware\c_ransomeware\obj\Debug\c_ransomeware.csproj.CoreCompileInputs.cache
+C:\Users\white\OneDrive\바탕 화면\c_ransomeware\c_ransomeware\obj\Debug\c_ransomeware.exe
+C:\Users\white\OneDrive\바탕 화면\c_ransomeware\c_ransomeware\obj\Debug\c_ransomeware.pdb
